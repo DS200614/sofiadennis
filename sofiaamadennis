@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="La storia d'amore tra Sofia Marzano e Dennis.">
+    <title>La Storia di Sofia e Dennis</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #fce4ec;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #f06292;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        section {
+            background-color: white;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #ad1457;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        footer {
+            background-color: #f06292;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+
+        footer p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>La Storia di Sofia e Dennis</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Chi è Sofia Marzano?</h2>
+            <p>Sofia Marzano è una ragazza dal cuore grande, sempre gentile con chi la circonda. Il suo sorriso è contagioso e la sua energia positiva illumina le vite di coloro che la incontrano.</p>
+        </section>
+
+        <section>
+            <h2>L'incontro con Dennis</h2>
+            <p>Un giorno, il destino ha fatto incontrare Sofia e Dennis. Da quel momento, la loro vita è cambiata per sempre. Dennis, con il suo carattere dolce e premuroso, ha conquistato il cuore di Sofia. Insieme hanno scoperto il vero significato dell'amore.</p>
+        </section>
+
+        <section>
+            <h2>Un Amore Folle</h2>
+            <p>Sofia è follemente innamorata di Dennis. Ogni pensiero, ogni gesto è per lui. L'amore che prova è profondo, puro e senza confini. In ogni momento passato insieme, Sofia sente crescere sempre di più il suo affetto per Dennis, un amore che non potrà mai essere spezzato.</p>
+        </section>
+
+        <section>
+            <h2>Il Futuro Insieme</h2>
+            <p>Sofia sogna un futuro accanto a Dennis, dove ogni giorno sarà un nuovo capitolo della loro storia d'amore. Insieme vogliono costruire una vita piena di felicità, sostegno e avventure indimenticabili.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Con amore, Sofia Marzano ❤️ Dennis</p>
+    </footer>
+
+</body>
+</html>
